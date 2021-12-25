@@ -7,3 +7,8 @@ uygulamayı çalıştırabilmek için izlenecek adımlar aşağıdadır.
 1-> go mod init main
 2-> go get github.com/rsms/gotalk
 3-> go run .
+
+
+uygulamayı build ederek exe çıktısını elde edebilirsiniz
+
+go build
