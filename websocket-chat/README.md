@@ -4,9 +4,9 @@ http://localhost:8080/ adresine bağlanacak olan kullanıcılar random isimler a
 
 uygulamayı çalıştırabilmek için izlenecek adımlar aşağıdadır.
 
-1-> go mod init main
-2-> go get github.com/rsms/gotalk
-3-> go run .
+1-> go mod init main <br>
+2-> go get github.com/rsms/gotalk <br>
+3-> go run . <br>
 
 
 uygulamayı build ederek exe çıktısını elde edebilirsiniz
